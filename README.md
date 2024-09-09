@@ -1,5 +1,7 @@
 <b>Construir um aplicativo Multi Tenants com Django, Django Rest Framework e Django Tenant</b>
 
+Baseado no exelente trabalho: <a src="https://www.thinkitive.com/blog/how-to-build-multi-tenants-application-with-django-django-rest-framework-and-django-tenant/">https://www.thinkitive.com/blog/how-to-build-multi-tenants-application-with-django-django-rest-framework-and-django-tenant/</a>
+
 <img src="https://blog.thinkitive.net/wp-content/uploads/2023/09/meta-image-3-1024x535.jpg" width="50%"></img> 
 
 <b>O que é o aplicativo Multi Locatários</b>
@@ -37,3 +39,17 @@ Aplicativos de terceiros podem ser colocados em esquemas separados para que não
 Os esquemas são análogos aos diretórios no nível do sistema operacional, exceto que os esquemas não podem ser aninhados. 
 
 <b>Para mais informações:</b> <a src="https://www.postgresql.org/docs/14/ddl-schemas.html">https://www.postgresql.org/docs/14/ddl-schemas.html</a>
+
+<b>Requisitos</b>
+
+1. Python (v3.10) ou superior – <a src="https://www.python.org/">https://www.python.org/</a>
+2. PostgreSQL (v14) recomendado – <a src="https://www.postgresql.org/">https://www.postgresql.org/</a>
+3. Django (v5.0) ou superio – <a src="https://www.djangoproject.com/">https://www.djangoproject.com/</a>
+4. Django Rest Framework (v3.15.0) – <a src="https://www.django-rest-framework.org/">https://www.django-rest-framework.org/</a>
+5. Django Tenants (v3.5.0) ou superior – <a src="https://django-tenants.readthedocs.io/en/latest/">https://django-tenants.readthedocs.io/en/latest/</a>
+
+<b>Python</b> – Python é uma linguagem de programação poderosa e fácil de aprender. Possui estruturas de dados eficientes de alto nível e uma abordagem simples, mas eficaz para programação orientada a objetos.
+
+<b>PostgreSQL</b> – PostgreSQL é um poderoso sistema de banco de dados relacional de objeto de código aberto para dados persistentes.
+
+<b>Django</b> – Django é uma estrutura web Python de alto nível que incentiva o desenvolvimento rápido e um design limpo e pragmático. Desenvolvido por desenvolvedores experientes, ele cuida do incômodo do desenvolvimento web, para que você possa se concentrar em escrever seu aplicativo sem reinventar a roda. É gratuito e de código aberto.
