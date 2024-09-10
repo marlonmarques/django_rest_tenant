@@ -413,6 +413,6 @@ Não vou colocar mais imagens pois seque como funciona a api.
 
 Nota: – Aqui, a chave Tenant-Header é responsável pelo nome do seu inquilino. Certifique-se de passar o nome correto do locatário no cabeçalho do locatário. Você deverá passar aqui o nome do Inquilino. Se passada como pública, esta API usará o esquema padrão para manipular dados no banco de dados. 
 
-mais adiante ferei outro tutorial motrando como funciona com frontend em react ou nextjs
+mais adiante farei outro tutorial mostrando como funciona com frontend em react ou nextjs
 
 <img src="https://github.com/marlonmarques/django_rest_tenant/blob/main/imgs/Captura%20de%20tela%20de%202024-09-09%2022-07-48.png?raw=true" width="75%"></img>
